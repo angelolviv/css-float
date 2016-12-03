@@ -1,0 +1,19 @@
+bode {
+    max-width: 400px;
+    margin: 0 auto;
+}
+nav {
+    float: left;
+    width: 20%;
+    background-color: red;
+}
+section {
+    float: left;
+    width: 60%;
+    margin-left: 20%;
+    background-color: yellow;
+}
+aside {
+    background-color: green;
+    margin-left: 80%;
+}
